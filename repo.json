@@ -779,6 +779,23 @@
       "extracted": 222183,
       "updated": "21/05/2026",
       "screens": 5
+    },
+    {
+      "name": "MEGA8",
+      "title": "Megaman X8 Demake",
+      "author": "Alison da Paz",
+      "version": "1.0.0.9",
+      "description": "Port PC",
+      "details": "\n\nNOTA:\nEl juego se descargara en la carpeta descargas en la raiz de tu SD en formato NSP, deberas instalarlo, lee las indicaciones mas abajo\n\nMega Man X8 16-Bit Demake es un fangame sobresaliente desarrollado por Alison da Paz en el motor Godot, que reimagina de forma brillante el polémico juego de PlayStation 2 adaptándolo por completo a la amada estética de 16 bits de la Super Nintendo\n\nTras más de dos años de desarrollo, su versión completa se ha convertido en una parada obligatoria para la comunidad de Mega Man X, ofreciendo una experiencia fluida, adictiva y nostálgica\n\nEl pixel art es el pilar central del proyecto. Logra capturar la esencia visual de la trilogía original de SNES (Mega Man X1 a X3), pero se permite añadir sutiles efectos de 32 bits y mejoras de rendimiento que la consola clásica jamás habría soportado\n\nLos contornos bien delimitados de los sprites, las animaciones fluidas y el excelente diseño de los menús —que incluye demostraciones dinámicas sobre cómo usar cada arma adquirida— demuestran un nivel de detalle y profesionalismo enorme\n\nEl juego funciona como una reimaginación en 16 bits más que como una copia exacta del diseño de niveles del juego original de PS2\n\nX como único protagonista: A diferencia del original, aquí Zero y Axl no están disponibles desde el inicio. Como compensación, X absorbe ciertas habilidades de sus compañeros, logrando un set de movimientos ágil y sumamente satisfactorio\n\nNiveles rediseñados: Las secciones más frustrantes de X8 fueron modificadas por completo. Por ejemplo, las tediosas misiones en moto de Avalanche Yeti y Gigabolt Man-O-War se transformaron en excelentes niveles de plataformas tradicionales inspirados en el Ride Chaser de Mega Man X2\n\nEl juego vuelve a las raíces de la saga: los corazones, tanques de energía y partes de armadura (Armaduras Ícaro y Hermes) se encuentran ocultos directamente en los escenarios\n\nLas armas de los jefes son el punto más fuerte en la jugabilidad. El juego permite una libertad creativa tremenda al permitir combinar o encadenar ataques de distintas armas, ya que algunos efectos persisten en pantalla al cambiar de equipamiento\n\nBanda sonora intacta: El creador decidió conservar la música original del juego de PS2 en lugar de meter remixes en formato chiptune de 16 bits\n\nPicos de dificultad exigentes: Aunque el juego se disfruta de principio a fin, en las etapas finales (especialmente contra Sigma y Lumine) la dificultad se dispara drásticamente\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nLa descarga incluye un NSP que se guardará en la carpeta Descargas en la raíz de tu sd, después de descargar, instala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta descargas en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo\n\n(Después de la instalación y que el juego funcione puedes recuperar espacio usando la opcion borrar desde este programa, o puedes borrar manualmente el nsp que esta en la carpeta descargas)",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/MEGA8.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "none",
+      "filesize": 345579,
+      "extracted": 346546,
+      "updated": "23/05/2026",
+      "screens": 5
     }
   ]
 }
