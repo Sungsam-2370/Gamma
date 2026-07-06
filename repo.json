@@ -796,6 +796,23 @@
       "extracted": 346546,
       "updated": "23/05/2026",
       "screens": 5
-    }
+    },
+    {
+      "name": "ZELHD",
+      "title": "The Legend of Zelda: Link's Awakening DX HD",
+      "author": "BigheadSMZ - Delson",
+      "version": "1.7.3",
+      "description": "Port PC",
+      "details": "The Legend of Zelda: Link's Awakening DX HD es un impresionante port nativo no oficial desarrollado por fans que transforma la clásica aventura de Game Boy Color en la versión definitiva y moderna del juego retro\n\nA diferencia del remake oficial en 3D para Nintendo Switch, este proyecto mantiene intacto el carismático arte de píxeles en 2D pero elimina por completo las limitaciones técnicas de los años 90\n\nPantalla Panorámica Completa: El cambio más drástico es el soporte nativo para formato 16:9 y superiores\n\nEl juego elimina las transiciones de pantalla por bloques, permitiendo explorar la Isla Koholint con un desplazamiento continuo y fluido\n\nControl de Cámara Excepcional: Incluye una función de zoom dinámico. Puedes acercar la cámara para apreciar el pixel art en alta resolución o alejarla para ver mapas enteros simultáneamente\n\nRendimiento de Última Generación: Deja atrás los 30 FPS originales para correr de forma nativa a 60\n\nControles Modernizados: Añade movimiento analógico completo para Link y mapeo de botones extendido.\n\nYa no tendrás que abrir el menú constantemente para intercambiar ítems básicos gracias a los accesos directos heredados del popular mod Link's Awakening Redux.\n\nCONTROLES:\nEl juego permite un mapeo personalizado de los botones, prueben el que mas les acomode, no olviden que se puede acercar y alejar la camara con los botones L o R\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/ZELHD.zip",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/zelda_ladxhd/ProjectZ.Switch.nro",
+      "filesize": 33480,
+      "extracted": 80928,
+      "updated": "24/05/2026",
+      "screens": 5
+    },
   ]
 }
