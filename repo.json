@@ -813,6 +813,40 @@
       "extracted": 80928,
       "updated": "24/05/2026",
       "screens": 5
+    },
+    {
+      "name": "GEOME",
+      "title": "Geometry Dash",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Geometry Dash es una obra maestra de plataformas rítmicas que destaca por su dificultad extrema, adicción y un catálogo infinito de contenido\n\nA pesar de haber sido lanzado hace más de una década, el juego se mantiene completamente vigente gracias al constante soporte de su desarrollador y una comunidad inigualable\n\nMecánica simple: Solo requiere dar toques en la pantalla táctil para saltar o mantener presionado para subir.\n\nVehículos diversos: El cubo se transforma a mitad de nivel en naves, ovnis o robots que cambian las físicas del juego.\n\nSincronización musical: Cada obstáculo y salto está perfectamente coordinado con la banda sonora electrónica.\n\nCastigo inmediato: Chocar contra un objeto reinicia el nivel de forma automática desde cero\n\nReto mental: El juego exige memorización pura, reflejos rápidos y una gran tolerancia a la frustración\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/GEOME.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/gdash/gdash_nx.nro",
+      "filesize": 154554,
+      "extracted": 195064,
+      "updated": "24/05/2026",
+      "screens": 5
+    },
+    {
+      "name": "AFTER",
+      "title": "After Burner Climax",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "After Burner Climax es una de las mayores joyas del género shoot-'em-up sobre raíles de la era moderna, ofreciendo pura adrenalina arcade condensada en partidas rápidas, intensas y visualmente espectaculares\n\nDesarrollado originalmente para recreativas por el mítico equipo Sega AM2 y llevado posteriormente a consolas, el juego destaca por capturar a la perfección la esencia rápida e implacable de los clásicos de los ochenta bajo un lavado de cara gráfico apabullante\n\nRitmo vertiginoso: El avión avanza automáticamente a velocidades absurdas mientras esquivas cientos de misiles.\n\nFijación de blancos: La clave es mover la retícula sobre los enemigos y vaciar tus ráfagas de misiles.\n\nBarra Climax: Al llenarse, ralentiza el tiempo y amplía la retícula para fijar decenas de objetivos simultáneos.\n\nAviones disponibles: Puedes pilotar réplicas reales del F-14D Super Tomcat, F/A-18E Super Hornet y F-15E Strike Eagle\n\nModo Arcade: Once misiones consecutivas que completas en apenas 15 intensos minutos.\n\nBifurcaciones de ruta: Al estilo OutRun, puedes elegir qué camino tomar a mitad de nivel para ver distintos escenarios.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/AFTER.zip",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/abc/abc_nx.nro",
+      "filesize": 469338,
+      "extracted": 511489,
+      "updated": "24/05/2026",
+      "screens": 5
     }
   ]
 }
