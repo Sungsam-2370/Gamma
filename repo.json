@@ -847,6 +847,23 @@
       "extracted": 511489,
       "updated": "24/05/2026",
       "screens": 5
+    },
+    {
+      "name": "BIRDS",
+      "title": "Angry Birds Classic",
+      "author": "ChanseyIsTheBest",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Angry Birds Classic sigue siendo considerado uno de los pilares más importantes en la historia de los videojuegos\n\nJugabilidad: Excelente. Simple de aprender pero difícil de dominar.\n\nContenido: Alto. Cientos de niveles con gran rejugabilidad para obtener las 3 estrellas.\n\nMecánica adictiva y directa: El uso de la resortera táctil para calcular la fuerza y el ángulo de disparo ofrece una respuesta física sumamente satisfactoria\n\nDiseño de niveles estratégico: Las estructuras combinan madera, cristal y piedra de forma inteligente. Esto obliga al jugador a pensar en qué orden y dirección impactar los bloques\n\nVariedad de personajes emblemáticos: Cada pájaro funciona como un tipo de munición única. Desde los Blues con su división triple hasta Bomb y su capacidad explosiva, el juego cambia constantemente las herramientas disponibles\n\nCero mecánicas abusivas modernas: La versión original carecía del bombardeo de microtransacciones y bloqueos de energía comunes en las secuelas actuales\n\nEn modo portátil , el juego se controla mediante la pantalla táctil, exactamente igual que en Android.\n\nEn modo acoplado (sin pantalla táctil), el joystick izquierdo controla el cursor en pantalla y el botón A sirve para pulsar. Mantén pulsado A mientras mueves el joystick para arrastrar (así es como se tira hacia atrás y se apunta con la honda). Una pequeña cruz muestra la posición del cursor. Los botones B o + activan la tecla de retroceso de Android (cancelar/volver al menú). El botón HOME suspende/sale como de costumbre.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/BIRDS.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/angrybirds/angrybirds_nx.nro",
+      "filesize": 50367,
+      "extracted": 238142,
+      "updated": "25/05/2026",
+      "screens": 5
     }
   ]
 }
