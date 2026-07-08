@@ -864,6 +864,23 @@
       "extracted": 238142,
       "updated": "25/05/2026",
       "screens": 5
+    },
+    {
+      "name": "VERY",
+      "title": "Very Little Nightmares",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Very Little Nightmares es una excelente y efectiva precuela que logra adaptar con éxito la atmósfera opresiva y el terror psicológico de la franquicia principal a un formato de rompecabezas táctiles en perspectiva isométrica\n\nEl juego funciona como una pieza clave para entender el origen del universo de la saga\n\nAtmósfera impecable: Mantiene la esencia tétrica, la tensión ambiental y el apartado artístico detallado característico de las entregas de sobremesa.\n\nDiseño de niveles: Ofrece 18 niveles brillantemente estructurados dentro de una mansión conocida como El Nido\n\nLore valioso: Expande la historia original ofreciendo respuestas y teorías muy interesantes para los fanáticos de la franquicia.\n\nEnemigos memorables: Los jefes, como el Artesano o el Mayordomo, tienen mecánicas de persecución únicas y terroríficas\n\nControles táctiles imprecisos: En ocasiones, el sistema de toques en cuadrícula para caminar o correr puede fallar durante secuencias de persecución rápida\n\n\nMODO JUEGO:\nEl juego es totalmente touch asi que podran usar las pantalla para jugar, es posible usar los botones aunque no es tan comodo\n\nMODO PANTALLA:\nEl juego esta configurado para usar la switch en modo vertical (Unica forma dejugarlo)\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Repo/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/VERY.zip",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/vln_nx/vln_nx.nro",
+      "filesize": 458034,
+      "extracted": 627209,
+      "updated": "25/05/2026",
+      "screens": 5
     }
   ]
 }
