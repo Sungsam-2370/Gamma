@@ -932,6 +932,23 @@
       "extracted": 627209,
       "updated": "26/05/2026",
       "screens": 5
+    },
+    {
+      "name": "NINJA",
+      "title": "LEGO Ninjago Shadow of Ronin",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "LEGO Ninjago: Shadow of Ronin es una de las adaptaciones portátiles más completas y divertidas de la franquicia de LEGO\n\nOriginalmente lanzado para consolas portátiles como la PlayStation Vita y Nintendo 3DS, el título ofrece una experiencia de consola completa, destacando por su fidelidad a la serie animada y su jugabilidad clásica de LEGO\n\nLa historia gira en torno a Ronin, un nuevo villano que, junto a su ejército de samuráis oscuros, utiliza la ancestral Guja de Obsidiana para robar los recuerdos y poderes elementales de los ninjas\n\nEl jugador debe controlar a Kai, Cole, Jay, Zane y el resto del equipo para explorar locaciones icónicas (como el Templo de Hielo o la Isla de Chen) con el fin de recuperar sus memorias y detener sus planes\n\nMecánicas Clásicas: Sigue la fórmula tradicional de romper objetos, construir herramientas y alternar entre personajes para resolver acertijos ambientales gracias a sus habilidades únicas\n\nControl Adaptado: Permite elegir entre un D-pad virtual tradicional con botones en pantalla o un modo Casual basado en gestos y toques rápidos. El control con botones virtuales es el más recomendado para evitar imprecisiones\n\nVariedad de Fases: Además de los niveles a pie, incluye secciones dinámicas de conducción de vehículos y vuelo de dragones que rompen la monotonía del juego\n\nSin Multijugador: A diferencia de las versiones de sobremesa de LEGO, este título está estrictamente diseñado como una aventura para un solo jugador\n\nNOTA:\nLa primera vez que abran el juego el mando no sera detectado\nCierren la aplicacion y abran de nuevo y ya detectara los mandos\nLos botones A y B estan invertidos para aceptar y cancelar, tenganlo pendiente\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/NINJA.zip",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/lnsor/lnsor_nx.nro",
+      "filesize": 1663416,
+      "extracted": 1740571,
+      "updated": "26/05/2026",
+      "screens": 5
     }
   ]
 }
