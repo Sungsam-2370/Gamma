@@ -68,6 +68,23 @@
       "screens": 4
     },
     {
+      "name": "ABYSS",
+      "title": "Made in Abyss: BSFD",
+      "author": "Fernanrrialex - Luigi",
+      "version": "1.0.3",
+      "description": "Traducción Español",
+      "details": "ESTO NO ES UN JUEGO, ES UN PARCHE EN ESPAÑOL (AL FINAL LAS INDICACIONES)\n\nMade in Abyss: Binary Star Falling into Darkness es una experiencia muy fiel, es un juego imprescindible para fanáticos acérrimos del manga y el anime. Su gran acierto es trasladar con éxito la atmósfera perturbadora y de supervivencia del Abismo y ahora podras jugarlo en ESPAÑOL\n\nEl juego se divide en dos campañas con enfoques totalmente opuestos\n\nHello Abyss: Funciona como un tutorial largo de unas pocas horas. Revive la historia original controlando a Riko junto a Reg. Es lineal, sencillo y carece de mecánicas reales de peligro\n\nDeep in Abyss: El verdadero corazón del juego. Creas a tu propio explorador personalizado en una historia supervisada por el autor Akihito Tsukushi. Aquí se activa la supervivencia pura\n\nPuntos Fuertes\n\nAtmósfera Inmersiva: Logra transmitir a la perfección el terror de descender al vacío. Los entornos capturan la perturbadora belleza de la obra original\n\nMecánica de la Maldición: Subir unos pocos metros activa La Maldición del Abismo. Te causará mareos, vómitos y alucinaciones en pantalla, recreando la tensión física del anime\n\nGestión de Recursos Cruda: El peso del inventario, el hambre y la durabilidad de las armas importan. Cada expedición requiere planeación real\n\nFiel al Gore: No suaviza la violencia. Las muertes del protagonista ante las bestias del Abismo son explícitas y brutales\n\n\nDESCARGA:\nEsta traducción se descargará directo a tu carpeta contents, no necesitas hacer nada mas\n\nINSTALACIÓN:\nDebes tener el juego Made in Abyss: Binary Star Falling into Darkness instalado, la traducción se aplicara automáticamente al descargar, solo abre el juego y prueba\n\nNOTA:\nSi por alguna razón quieres eliminar la traducción, puedes usar el boton BORRAR de este programa y automáticamente se eliminara, o puedes borrar manualmente entrando a tu carpeta contents y borra la carpeta 01006080117C2000",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/ABYSS.zip",
+      "license": "Español",
+      "category": "Traducciones",
+      "binary": "none",
+      "filesize": 15961,
+      "extracted": 15994,
+      "updated": "27/05/2026",
+      "screens": 5
+    },
+    {
       "name": "UNDERESP",
       "title": "Undertale",
       "author": "UnderProjectNX",
