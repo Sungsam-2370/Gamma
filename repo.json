@@ -371,6 +371,23 @@
       "screens": 5
     },
     {
+      "name": "HL2EP1",
+      "title": "HL2 Episodio 1",
+      "author": "NaGaa",
+      "version": "1.0.2",
+      "description": "Port Android",
+      "details": "Texto y Voces en Español\n\nES NECESARIO TENER INSTALADO HALF LIFE 2, SI AUN NO LO TIENEN; DESCARGALO PRIMERO\n\nTengan en cuenta que algo de overclock es necesario apra hacer el juego mas disfrutable\n\nHay tiempo de carga entre zonas o carga de escenarios, sean pacientes\n\nAhora cuenta con un lanzador del juego en el cual podran elegir si cargar Half Life 2 o los episodios extras\n\n\nHalf-Life 2: Episode One es una expansión directa que funciona como un epílogo tenso de Half-Life 2 y el inicio de un formato episódico que prioriza el ritmo rápido. Con una duración compacta de 4 a 5 horas, el juego elimina los tiempos muertos y se enfoca en una única meta urgente: escapar de Ciudad 17 antes de la inminente destrucción de la Ciudadela de la Alianza.\n\nEl juego retoma la acción exactamente donde terminó Half-Life 2. Los Vortigaunts salvan a Gordon de las garras del G-Man, y ahora él y Alyx deben volver a entrar a la Ciudadela para retrasar su explosión.\n\nLa historia cambia su enfoque. Deja de ser una aventura a gran escala para convertirse en una misión de escape más íntima. Alyx Vance se vuelve el corazón del juego, acompañándote casi todo el tiempo. La relación entre ambos crece gracias a diálogos bien actuados y una mejor animación facial.\n\nLa evolución de Alyx Vance: Deja de ser un personaje secundario para convertirse en una de las mejores compañeras de la historia de los videojuegos. Su inteligencia artificial te ayuda activamente en combate, busca munición, resuelve puzles y reacciona de forma realista a tus acciones sin estorbar.\n\nNuevos retos: El juego introduce al Zombine, un soldado Combine que lleva un cangrejo alienígena (Headcrab) en la cabeza y es más peligroso\n\nNarrativa integrada y ritmo frenético: No hay cinemáticas que interrumpan la acción; toda la historia se desarrolla en tiempo real mientras juegas, aumentando la inmersión en la huida.\n\nUso creativo de las físicas: El arma de gravedad (Gravity Gun) sigue siendo la protagonista absoluta, siendo indispensable para resolver acertijos ambientales y redirigir proyectiles enemigos.\n\nDiseño de niveles intenso: El tramo inicial dentro del núcleo de la Ciudadela inestable y la tensa sección a oscuras en el hospital subterráneo ofrecen picos de adrenalina memorables.\n\nNOTA:\nEl juego funciona con los mandos de forma normal, pero tambien tiene opciones de control con la pantalla tactil\nLos botones A y B estan invertidos para aceptar y cancelar, tenganlo pendiente\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Alpha/releases/download/Nuevo/E1.zip",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/hl2/hl2.nro",
+      "filesize": 1459619,
+      "extracted": 2310896,
+      "updated": "29/05/2026",
+      "screens": 5
+    },
+    {
       "name": "CHRONO",
       "title": "Chrono Trigger",
       "author": "NaGaa",
