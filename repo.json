@@ -802,9 +802,9 @@
       "name": "ANDREAS",
       "title": "Grand Theft Auto: San Andreas",
       "author": "NaGaa",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "description": "Port Android",
-      "details": "Grand Theft Auto: San Andreas es una adaptación espectacular de la obra maestra de Rockstar Games\n\nMantiene todo su inmenso mundo abierto, historia y misiones intactas, con gráficos mejorados y la gran ventaja de la portabilidad\n\nEl juego completo: Toda la enorme aventura de Carl Johnson está en tu bolsillo, sin recortes de mapa ni de historia\n\nApartado visual: Incluye iluminación mejorada y colores más vivos comparado con el título original de PlayStation 2\n\nCompatibilidad: Soporta mandos Bluetooth (gamepads). Conectar un control transforma la experiencia\n\nBugs esporádicos: Pueden aparecer fallos gráficos menores\n\n¿Vale la pena?, Absolutamente. Es uno de los mejores juegos de la historia de los videojuegos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "details": "Nueva version 1.0.2 con nuevas mejoras, agradecimientos a sus creadores\n\nGrand Theft Auto: San Andreas es una adaptación espectacular de la obra maestra de Rockstar Games\n\nMantiene todo su inmenso mundo abierto, historia y misiones intactas, con gráficos mejorados y la gran ventaja de la portabilidad\n\nEl juego completo: Toda la enorme aventura de Carl Johnson está en tu bolsillo, sin recortes de mapa ni de historia\n\nApartado visual: Incluye iluminación mejorada y colores más vivos comparado con el título original de PlayStation 2\n\nCompatibilidad: Soporta mandos Bluetooth (gamepads). Conectar un control transforma la experiencia\n\nBugs esporádicos: Pueden aparecer fallos gráficos menores\n\n¿Vale la pena?, Absolutamente. Es uno de los mejores juegos de la historia de los videojuegos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
       "zip_url": "https://github.com/Sungsam-2370/Alpha/releases/download/Nuevo/ANDREAS.zip",
       "license": "Español - Multi idioma",
@@ -812,7 +812,7 @@
       "binary": "/switch/gtasa/gtasa_nx.nro",
       "filesize": 1910793,
       "extracted": 2639280,
-      "updated": "21/05/2026",
+      "updated": "1/06/2026",
       "screens": 5
     },
     {
