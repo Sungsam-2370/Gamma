@@ -405,6 +405,24 @@
       "screens": 5
     },
     {
+      "name": "HL2EP2",
+      "title": "HL2 Episodio 2",
+      "author": "NaGaa",
+      "version": "1.0.2",
+      "description": "Port Android",
+      "details": "Texto y Voces en Español\n\nES NECESARIO TENER INSTALADO HALF LIFE 2 Y TAMBIEN HALF LIFE 2 EPISODIO 1, SI AUN NO LO TIENEN; DESCARGALOS PRIMERO\n\nTengan en cuenta que algo de overclock es necesario apra hacer el juego mas disfrutable\n\nHay tiempo de carga entre zonas o carga de escenarios, sean pacientes\n\nAhora cuenta con un lanzador del juego en el cual podran elegir si cargar Half Life 2 o los episodios extras\n\n\nHalf-Life 2: Episode Two es una de las obras maestras absolutas de Valve, superando de forma notable a su predecesor directo y refinando al máximo la fórmula del juego original de 2004. Lanzado originalmente como parte de la aclamada colección The Orange Box,\n\nEste título ofrece un ritmo de juego impecable, un diseño de niveles brillante y uno de los finales más impactantes y dolorosos de la historia de los videojuegos\n\nA diferencia de la claustrofóbica Ciudad 17 y de los repetitivos entornos urbanos destruidos del Episodio Uno, esta entrega saca a Gordon Freeman y a Alyx Vance a las afueras\n\nVariedad visual: El viaje transcurre por densos bosques, minas subterráneas iluminadas por larvas y extensos valles rurales\n\nMayor escala: Los escenarios son mucho más abiertos. Esto permite secciones de conducción con un coche modificado que se sienten mucho más fluidas y divertidas que los vehículos del juego base\n\nCurva de dificultad: El diseño de niveles crea una transición perfecta entre la exploración tranquila, los puzles físicos ingeniosos y los tiroteos caóticos\n\nEl Cazador (Hunter): Un nuevo enemigo sintético de la Alianza. Son ágiles, disparan dardos explosivos y flanquean al jugador constantemente, forzándote a moverte de forma inteligente\n\nDispositivo Magnuson: Una bomba lapa diseñada específicamente para destruir Zancudos (Striders). Su uso introduce dinámicas de juego frenéticas en el tramo final, donde debes lanzarlas con la icónica Pistola de Gravedad y dispararles antes de que el enemigo las destruya\n\nPuzles orgánicos: El uso del motor físico Havok vuelve a brillar, integrando rompecabezas en el entorno que se sienten lógicos y satisfacen la inteligencia del jugador\n\nLa relación con Alyx Vance: Alyx se consolida como uno de los mejores acompañantes de la industria. Su interacción con Gordon no interrumpe el juego con cinemáticas; ocurre en tiempo real mientras juegas, fortaleciendo el vínculo emocional\n\nLore expandido: Los Vortigaunts toman un protagonismo fascinante. Muestran sus habilidades místicas y expanden el trasfondo de la resistencia humana contra las fuerzas de la Alianza\n\nEs imposible hablar del Episodio Dos sin mencionar su desenlace. El clímax en la base de la resistencia de White Forest ofrece una gran satisfacción jugable al cerrar el superportal enemigo. Sin embargo, la escena final da un giro drástico y brutal que dejó a la comunidad en shock durante décadas, cerrando la historia con un enorme cliffhanger tras una desgarradora pérdida. Debido a que Episode Three o Half-Life 3 nunca llegaron a materializarse, este cierre congeló la saga en el tiempo, elevando el juego al estatus de mito cultural\n\nNOTA:\nEl juego funciona con los mandos de forma normal, pero tambien tiene opciones de control con la pantalla tactil\nLos botones A y B estan invertidos para aceptar y cancelar, tenganlo pendiente\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Alpha/releases/download/Nuevo/EP2_1.zip",
+      "zip_url_2": "https://github.com/Sungsam-2370/Alpha/releases/download/Nuevo/EP2_2.zip",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/hl2/hl2.nro",
+      "filesize": 2241743,
+      "extracted": 3591561,
+      "updated": "29/05/2026",
+      "screens": 5
+    },
+    {
       "name": "CHRONO",
       "title": "Chrono Trigger",
       "author": "NaGaa",
