@@ -1003,6 +1003,23 @@
       "screens": 5
     },
     {
+      "name": "BAD",
+      "title": "Bad Piggies",
+      "author": "ChanseyIsTheBest",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Bad Piggies es uno de los mejores y más ingeniosos juegos derivados de Rovio, superando en originalidad a muchas de las secuelas directas de Angry Birds\n\nEl título cambia por completo la perspectiva al ponerte en los zapatos de los cerdos verdes, sustituyendo la destrucción destructiva por una mecánica de construcción de vehículos y resolución de acertijos de física sumamente adictiva\n\nMecánica creativa: Creas transportes con cajas, ruedas, globos, motores y cohetes\n\nObjetivo principal: Llevar al cerdo hacia los fragmentos del mapa de los huevos\n\nísica realista: Cada pieza afecta el peso, la velocidad y la estabilidad del vehículo\n\nFilosofía de juego: El fracaso no penaliza; ver explotar tus inventos es divertido\n\nSi buscas un juego casual que no sea lineal, que te obligue a pensar y que ofrezca horas de contenido gratuito, es una descarga obligatoria\n\nEn modo dock (sin pantalla táctil) el boton + activa el cursor , mientras que el boton - desactiva el cursor, el joystick izquierdo controla el cursor en pantalla y el botón A sirve para pulsar. En modo portatil solo se usa la pantalla tactil\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/BAD.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/badpiggies_nx/badpiggies_nx.nro",
+      "filesize": 67780,
+      "extracted": 120569,
+      "updated": "30/05/2026",
+      "screens": 5
+    },
+    {
       "name": "VERY",
       "title": "Very Little Nightmares",
       "author": "NaGaa",
