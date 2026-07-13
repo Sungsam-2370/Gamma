@@ -850,6 +850,23 @@
       "screens": 5
     },
     {
+      "name": "DIMENSIONS2",
+      "title": "Final Fantasy Dimensions 2",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Final Fantasy Dimensions II es un RPG de aventura lineal. En él, Morrow y Aemo viajan en el tiempo para salvar al mundo\n\nLa historia gira en torno a Morrow, un joven que sueña con ser aventurero. Conoce a Aemo y juntos exploran el pasado, presente y el futuro para salvar la realidad.\n\nEl juego es un JRPG muy simplificado. Atrás quedaron los mapas de mundo abierto extensos. En su lugar, el juego utiliza un sistema de avance por menús y nodos, similar a una aventura gráfica de apuntar y hacer clic. En las batallas, utilizas un sistema de comandos activo tradicional, donde combinas magias, destrezas e invocaciones de monstruos a través de Cristales de Sello.\n\nEl juego destaca especialmente en lo visual y lo sonoro. Los diseños de los personajes, los menús y las pantallas de título cuentan con un arte hermoso. Los efectos especiales en los combates son muy llamativos. La banda sonora, compuesta por Naoshi Mizuta, incluye más de cincuenta pistas. Cada época que visitas se siente fresca y única gracias a su música\n\nFinal Fantasy Dimensions II es una buena opción si buscas un juego de rol nostálgico y bonito para jugar en pequeñas dosis. Sin embargo, si eres un fanático de los JRPG tradicionales con exploración libre, perderás el gran mundo abierto que tenía su primera entrega.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/DIMENSIONS2.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/ffd2_nx/ffd2_nx.nro",
+      "filesize": 348341,
+      "extracted": 362540,
+      "updated": "29/05/2026",
+      "screens": 5
+    },
+    {
       "name": "MEGA8",
       "title": "Megaman X8 Demake",
       "author": "Alison da Paz",
