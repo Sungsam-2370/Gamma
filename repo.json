@@ -1069,6 +1069,23 @@
       "extracted": 410793,
       "updated": "26/05/2026",
       "screens": 5
+    },
+    {
+      "name": "ANDREASESP",
+      "title": "Mod Latino - GTA San Andreas",
+      "author": "ZainEsc - Magotakon",
+      "version": "1.0.0",
+      "description": "Mod Audio Español Latino",
+      "details": "Mod Español Latino\n\nIMPORTANTE: Debes tener el juego previamente instalado apra que este mod reemplace los archivos\n\nLos mods de audio en español para GTA San Andreas se encuentran disponibles gracias a proyectos de la comunidad que utilizan Inteligencia Artificial (IA) para traducir y clonar las voces originales al español latino o castellano\n\nDiscos Chains (Español Latino): Es uno de los proyectos más populares. Han desarrollado un doblaje completo utilizando IA que clona los tonos originales de los personajes, este mod se basa principalmente en su trabajo\n\nLimitaciones de estos mods\n\nVoces robóticas: Al ser generados por IA, algunos diálogos o insultos callejeros pueden sonar un poco planos o perder la sincronización labial exacta\n\nFases de desarrollo: El juego es masivo, por lo que algunas misiones secundarias o diálogos de peatones al azar podrían seguir apareciendo en inglés en ciertas versiones\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste aporte es un mod,no necesita instalarse, solo deben tener antes de descargarlo el juego GTA San Andreas instalado para que reemplace los archivos de audio",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Alpha/releases/download/Nuevo/ANDREASESP.zip",
+      "license": "Español",
+      "category": "Mods Juegos",
+      "binary": "none",
+      "filesize": 931930,
+      "extracted": 1100239,
+      "updated": "1/06/2026",
+      "screens": 1
     }
   ]
 }
