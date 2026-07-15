@@ -423,6 +423,24 @@
       "screens": 5
     },
     {
+      "name": "STRIKE",
+      "title": "Counter Strike Source",
+      "author": "NaGaa",
+      "version": "1.0.1",
+      "description": "Port Android",
+      "details": "Esta es una edicion especial que trae ya habilitado los servidores por DNS, ahora podran crear servidores mucho mas facil para programas partidas en el grupo, o unirte a servidores existentes\n\nTexto y Voces en Español\n\nTengan en cuenta que algo de overclock es necesario apra hacer el juego mas disfrutable\n\nPor el tamaño de los menus se disfruta mas en television\n\n\nDespués de años siendo uno de los FPS más importantes de la historia, Counter-Strike: Source continúa demostrando por qué sigue siendo un clásico\n\nAhora puedes disfrutar la experiencia completa del motor Source directamente desde tu Nintendo Switch, con partidas offline, juego online, soporte para mods y una de las novedades más importantes que ha recibido este port.\n\nFísicas y Destrucción: La introducción del motor de físicas Havok permitió que objetos como barriles y cajas reaccionaran de forma realista a los disparos, transformando las tácticas de combate\n\nJugabilidad: El núcleo del juego enfrenta a Terroristas contra Antiterroristas en rondas rápidas con objetivos de bombas o rehenes. Source implementó modelos de colisión (hitboxes) más amplios y un control de retroceso ligeramente más accesible, ofreciendo un ritmo de juego fluido, tenso y altamente competitivo.\n\nNOTA:\nEl juego funciona con los mandos de forma normal, pero tambien tiene opciones de control con la pantalla tactil\nLos botones A y B estan invertidos para aceptar y cancelar, tenganlo pendiente\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/STRIKE_1.zip",
+      "zip_url_2": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/STRIKE_2.zip",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/css_nx/css_nx.nro",
+      "filesize": 3445617,
+      "extracted": 6269499,
+      "updated": "2/06/2026",
+      "screens": 5
+    },
+    {
       "name": "CHRONO",
       "title": "Chrono Trigger",
       "author": "NaGaa",
