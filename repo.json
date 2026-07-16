@@ -1089,6 +1089,23 @@
       "screens": 5
     },
     {
+      "name": "JAM",
+      "title": "NBA JAM",
+      "author": "Delson",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "NBA Jam es una de las adaptaciones arcade más divertidas y fieles de EA Sports, logrando trasladar a la perfección la velocidad, los mates imposibles y la locura del juego original de consolas\n\nJugabilidad: El regreso del He's on Fire\n\nEl núcleo del juego destaca por mantener la esencia pura del baloncesto arcade en formato 2 contra 2\n\nAcción directa: No existen reglas estrictas ni faltas; los empujones brutales y los robos agresivos son esenciales para ganar\n\nRacha de fuego: Si un mismo jugador anota tres canastas seguidas, entra en estado On Fire, lo que le otorga turbo ilimitado y una puntería perfecta hasta que el rival anote\n\nControles adaptados: Permite elegir entre un D-Pad virtual clásico con botones táctiles o gestos de deslizamiento en pantalla, respondiendo de manera fluida y sin retrasos\n\nEstilo visual único: Utiliza un diseño caricaturesco donde los cuerpos de los jugadores en 3D se combinan con fotografías reales de sus rostros (cabezones) que cambian de expresión según la jugada\n\nComentarios míticos: Los efectos de sonido y la icónica voz del narrador original con frases memorables como Boomshakalaka! o From downtown! aportan una atmósfera de máquina recreativa inigualable\n\nModos de Juego y Contenido\n\nPartido rápido (Play Now): Elige tu equipo, tus estrellas de la NBA y salta a la cancha de inmediato.\n\nCampaña clásica: Derrota a las 30 franquicias de la liga para desbloquear leyendas retiradas (como Scottie Pippen o Dennis Rodman) y trucos visuales.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/JAM.zip",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/nbajam_nx/nbajam.nro",
+      "filesize": 574481,
+      "extracted": 623300,
+      "updated": "2/06/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
