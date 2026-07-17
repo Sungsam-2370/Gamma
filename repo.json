@@ -203,9 +203,9 @@
       "name": "TICO",
       "title": "Tico",
       "author": "Dan",
-      "version": "0.7.2",
+      "version": "0.7.6",
       "description": "Multi Emulador",
-      "details": "Tico es una interfaz de emulación multiplataforma centrada en ofrecer una experiencia de usuario con calidad de consola, una aplicacion muy comentada por su posibilidad de correr algunos juegos de gamecube desde la consolas switch\n\nEn lugar de exploradores de archivos, menús de configuración y herramientas fragmentadas, tico proporciona una interfaz unificada que organiza automáticamente los juegos, gestiona los recursos y ejecuta los núcleos del emulador; ninguna de estas funciones está incluida en el propio binario de tico.\n\nEstá diseñado para que parezca la interfaz de usuario de una consola real, no una herramienta de desarrollo.\n\nINCLUYE:\nTICO Installer, solo abre el installador y se instalará tico\nTICO Cores - Todos los cores de los emuladores actualizados a la fecha\nTICO Bro - Una tienda configurada para descargar juegos para Tico\nTICO Wii Menu - Permite ver el menu de la Wii para instalar y usar WADS\nTICO GC Remapper - Permite configurar los botones de los controles para GC\nTICO Wii Remmaper - Permite configurar los botones de los controles para Wii\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, abre la aplicacion tico installer, se abrirá un programa de configuracion en el cual podrás elegir le idioma y algunas opciones mas, y automáticamente te instalará un acceso en tu menu principal, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "details": "Tico es una interfaz de emulación multiplataforma centrada en ofrecer una experiencia de usuario con calidad de consola, una aplicacion muy comentada por su posibilidad de correr algunos juegos de gamecube y 3DS desde la consolas switch\n\nEn lugar de exploradores de archivos, menús de configuración y herramientas fragmentadas, tico proporciona una interfaz unificada que organiza automáticamente los juegos, gestiona los recursos y ejecuta los núcleos del emulador; ninguna de estas funciones está incluida en el propio binario de tico.\n\nEstá diseñado para que parezca la interfaz de usuario de una consola real, no una herramienta de desarrollo.\n\nINCLUYE:\nTICO Installer, solo abre el installador y se instalará tico\nTICO Cores - Todos los cores de los emuladores actualizados a la fecha\nTICO Bro - Una tienda configurada para descargar juegos para Tico\nTICO Wii Menu - Permite ver el menu de la Wii para instalar y usar WADS\nTICO GC Remapper - Permite configurar los botones de los controles para GC\nTICO Wii Remmaper - Permite configurar los botones de los controles para Wii\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, abre la aplicacion tico installer, se abrirá un programa de configuracion en el cual podrás elegir le idioma y algunas opciones mas, y automáticamente te instalará un acceso en tu menu principal, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
       "zip_url": "https://github.com/tortugasdoradas-arch/Repo/releases/download/Prueba/TICO.zip",
       "license": "Multi idioma",
@@ -213,7 +213,7 @@
       "binary": "/switch/tico-installer.nro",
       "filesize": 314388,
       "extracted": 709296,
-      "updated": "20/05/2026",
+      "updated": "4/06/2026",
       "screens": 4
     },
     {
