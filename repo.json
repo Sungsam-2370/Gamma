@@ -752,7 +752,7 @@
       "name": "MANA",
       "title": "Adventures of Mana",
       "author": "NaGaa",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Port Android",
       "details": "Adventures of Mana para Android es una excelente y fiel remasterización en 3D del clásico de 1991, Final Fantasy Adventure (Game Boy)\n\nEl juego transforma el título original de 8 bits en un RPG de acción moderno y vistoso, manteniendo intactas sus mecánicas tradicionales\n\nEl juego ofrece una experiencia premium para un solo jugador que funciona de forma completamente offline. Su estilo evoca directamente a los clásicos títulos de la saga The Legend of Zelda\n\nCombate directo: Peleas en tiempo real con vista cenital usando espadas, hachas y magia.\n\nEvolución flexible: Al subir de nivel, puedes asignar puntos entre cuatro disciplinas (Guerrero, Monje, Mago o Sabio) para moldear tu estilo de juego\n\nAcertijos y mazmorras: El diseño de los mapas es idéntico al original, obligándote a encontrar llaves y resolver puzles ambientales.\n\nHistoria sencilla: Una narrativa clásica de fantasía donde debes proteger el Árbol de Mana de las fuerzas del mal\n\nApartado visual: Los entornos son coloridos, nítidos y adaptados a modelos tridimensionales muy llamativos a la vista.\n\nBanda sonora: La música fue completamente remasterizada por el compositor original, Kenji Ito, siendo uno de los puntos más elogiados por la crítica\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
@@ -762,7 +762,7 @@
       "binary": "/switch/aom/aom_nx.nro",
       "filesize": 372106,
       "extracted": 393048,
-      "updated": "21/05/2026",
+      "updated": "4/06/2026",
       "screens": 5
     },
     {
