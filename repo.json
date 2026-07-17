@@ -1106,6 +1106,24 @@
       "screens": 5
     },
     {
+      "name": "HEARTS",
+      "title": "Kingdom Hearts Union X Dark Road",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Kingdom Hearts Union X Dark Road es un RPG de estrategia que explora el pasado del villano principal, Xehanort. Su historia es muy oscura y brillante, pero su sistema de juego es flojo. El juego cerró sus servidores, por lo que ahora es una aplicación para ver su gran historia de principio a fin sin jugar\n\nHistoria: El origen del villano\n\nEl juego te pone en la piel de un joven Xehanort mientras entrena en la ciudad de Scala ad Caelum. Es una historia excelente y madura. Te enseña por qué Xehanort eligió el camino de la oscuridad y cómo conoció a Eraqus. Además, conecta el destino de los Maestros Perdidos con eventos importantes que cambian toda la saga\n\nJugabilidad: Un modo automático aburrido\n\nEl sistema de combate se basa en usar cartas para atacar y defender. Tras cerrar sus tiendas digitales, el juego se volvió una experiencia sin conexión (offline). Ahora, las peleas se juegan solas (modo automático) y el sistema no tiene mucha emoción\n\n¿Vale la pena?\n\nSi quieres entender toda la historia de Kingdom Hearts, este juego es obligatorio. Sin embargo, quizas no tenga tanto valor como videojuego.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Beta/releases/download/Archivos/HEARTS_1.zip",
+      "zip_url_2": "https://github.com/tortugasdoradas-arch/Beta/releases/download/Archivos/HEARTS_2.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/khux_nx/khux_nx.nro",
+      "filesize": 2269181,
+      "extracted": 2303013,
+      "updated": "4/06/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
