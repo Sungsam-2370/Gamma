@@ -285,6 +285,23 @@
       "screens": 5
     },
     {
+      "name": "DEKO",
+      "title": "Dekopon Emulador 3DS",
+      "author": "PalindromicBreadLoaf - Equipo Azahar",
+      "version": "1.0.0",
+      "description": "Emulador 3DS",
+      "details": "Dekopon es un emulador de 3DS de código abierto para Nintendo Switch basado en Azahar.\n\nActualmente, el proyecto arranca y ejecuta juegos a velocidad casi máxima (consulte la lista de compatibilidad para obtener más detalles)\n\nEl rendimiento depende mucho de cada juego y mejorará con el tiempo, pero muchos juegos se pueden jugar a velocidad completa ahora mismo, a veces incluso con las frecuencias de reloj predeterminadas en modo portátil. (Recomiendo al menos aumentar la CPU a las frecuencias de la unidad de desarrollo en modo portátil solo para reducir la carga de la compilación de sombreadores y suavizar algunos problemas de sincronización de fotogramas).\n\nLa ubicación predeterminada de las ROMs es /switch/dekopon/roms/. \n\nTodos los formatos que Azahar admite de forma nativa también son compatibles aquí. Se puede alternar entre diferentes diseños de pantalla presionando el joystick derecho.\n\n Presionando '+' en un juego se muestra información sobre él, incluidas las actualizaciones y el DLC\n\nCaracterísticas\n\nCompatibilidad total con giroscopio\n\nSoporte de instalación de la CIA\n\nCompatibilidad con teclados mediante software (y hardware) Switch\n\nMúltiples diseños de pantalla mediante R3 (pulsando el joystick derecho).\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Alpha/releases/download/Nuevo/DEKO.zip",
+      "license": "Ingles",
+      "category": "Emuladores",
+      "binary": "/switch/dekopon/dekopon.nro",
+      "filesize": 11630,
+      "extracted": 36589,
+      "updated": "5/06/2026",
+      "screens": 4
+    },
+    {
       "name": "SMASH",
       "title": "Super Smash Bros 64",
       "author": "JRickey - delsonazevedo ",
