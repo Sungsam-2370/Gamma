@@ -315,7 +315,7 @@
       "binary": "/switch/dekopon/dekopon.nro",
       "filesize": 11630,
       "extracted": 36589,
-      "updated": "5/06/2026",
+      "updated": "9/06/2026",
       "screens": 4
     },
     {
@@ -478,17 +478,17 @@
       "name": "CHRONO",
       "title": "Chrono Trigger",
       "author": "NaGaa",
-      "version": "1.0.2",
+      "version": "1.1.0",
       "description": "Port Android",
       "details": "VERSION ESPECIAL:\nSe agrega un mod para devolver la estetica original de SNES (pixelart)\n\nSe agregan filtros y configuraciones para mejorar la estetica del juego\n\nTodo esto es posible gracias a las modificaciones de Josete2k y ppkantorski\n\nMod y configuracion para mejorar la calidad y fluidez de los videos\n\nChrono Trigger port Android es actualmente una de las mejores formas de disfrutar de este legendario JRPG. Ofrece una experiencia pulida, con soporte para pantallas táctiles y contenido expandido de la versión de Nintendo DS\n\nArte atemporal: El icónico diseño de personajes de Akira Toriyama se mantiene intacto y luce nítido en pantallas modernas de alta definición\n\nFiltros visuales: Se aplica un suavizado gráfico para pantallas HD. Aunque carece de la opción para alternar al pixel art original, el juego se ve limpio y fluido\n\nBanda sonora legendaria: La obra maestra de Yasunori Mitsuda y Nobuo Uematsu está completamente remasterizada, ofreciendo una inmersión acústica impecable\n\nCombate ATB dinámico: El sistema de batalla mantiene la barra de tiempo activo y la importancia del posicionamiento de los enemigos para los ataques en área\n\nControles táctiles: La interfaz táctil cumple su función, pero puede sentirse un poco imprecisa en secciones que exigen velocidad (como perseguir a la rata en el futuro)\n\nSoporte para mandos: Es altamente recomendable jugar con un control físico para obtener una experiencia fluida y precisa.\n\nExtras incluidos: Esta edición añade las mazmorras adicionales de las versiones modernas: el Vórtice dimensional y el Santuario del olvido\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
       "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/CHRONO.zip",
       "license": "Español",
-      "category": "PkUnico",
+      "category": "Ports",
       "binary": "/switch/ct/ct_nx.nro",
       "filesize": 565359,
       "extracted": 585696,
-      "updated": "22/05/2026",
+      "updated": "9/06/2026",
       "screens": 5
     },
     {
