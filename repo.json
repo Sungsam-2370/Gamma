@@ -1175,6 +1175,23 @@
       "screens": 5
     },
     {
+      "name": "FUSION",
+      "title": "SMW Remastered Plus",
+      "author": "Plants vs Zombies Fusion",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Plants vs. Zombies: Fusion es un fangame desarrollado en Unity que revitaliza la franquicia clásica al permitir la combinación de distintas plantas para crear nuevos híbridos con habilidades mejoradas\n\nSu jugabilidad es más dinámica y desafiante que la del juego original, exigiendo una mejor estrategia para enfrentar oleadas de zombis\n\nLo Mejor del Juego\n\nMecánica de Fusión: La posibilidad de combinar plantas (por ejemplo: Girasol + Lanzaguisantes = Lanzasol) añade una capa de profundidad estratégica fresca y adictiva.\n\nNivel de Desafío: A diferencia del clásico, los zombis y la selección de tu equipo exigen mucha más atención, lo que evita que las partidas se vuelvan monótonas\n\nCalidad visual: Pese a ser un proyecto independiente, conserva el carisma del juego de PopCap con animaciones y fusiones creativas.\n\nControles:\n\nBoton - Activar/desactivar el apuntado giroscópico (inclinar/girar el mando para apuntar)\n\nBoton + \n\nActivar/desactivar el cursor en pantalla\n\nJoystick izquierdo Mueva el cursor\n\nL/R recentra el cursor al centro de la pantalla (esto ayuda a apuntar con el giroscopio).\n\nA/ZR/ZL Pulsar/confirmar (ZL y ZR permiten jugar con una sola mano).\n\nD-pad arriba/abajo Ajusta la sensibilidad de lo que sea que esté controlando el cursor.\n\n Boton B Cancelar/regresar\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/FUSION.zip",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/pvz_fusion/pvz_fusion_nx.nro",
+      "filesize": 644589,
+      "extracted": 540038,
+      "updated": "7/06/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
