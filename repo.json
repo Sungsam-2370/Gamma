@@ -203,7 +203,7 @@
       "name": "TICO",
       "title": "Tico",
       "author": "Dan",
-      "version": "0.7.6",
+      "version": "0.7.7",
       "description": "Multi Emulador",
       "details": "Tico es una interfaz de emulación multiplataforma centrada en ofrecer una experiencia de usuario con calidad de consola, una aplicacion muy comentada por su posibilidad de correr algunos juegos de gamecube y 3DS desde la consolas switch\n\nEn lugar de exploradores de archivos, menús de configuración y herramientas fragmentadas, tico proporciona una interfaz unificada que organiza automáticamente los juegos, gestiona los recursos y ejecuta los núcleos del emulador; ninguna de estas funciones está incluida en el propio binario de tico.\n\nEstá diseñado para que parezca la interfaz de usuario de una consola real, no una herramienta de desarrollo.\n\nINCLUYE:\nTICO Installer, solo abre el installador y se instalará tico\nTICO Cores - Todos los cores de los emuladores actualizados a la fecha\nTICO Bro - Una tienda configurada para descargar juegos para Tico\nTICO Wii Menu - Permite ver el menu de la Wii para instalar y usar WADS\nTICO GC Remapper - Permite configurar los botones de los controles para GC\nTICO Wii Remmaper - Permite configurar los botones de los controles para Wii\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, abre la aplicacion tico installer, se abrirá un programa de configuracion en el cual podrás elegir le idioma y algunas opciones mas, y automáticamente te instalará un acceso en tu menu principal, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
@@ -213,7 +213,7 @@
       "binary": "/switch/tico-installer.nro",
       "filesize": 314388,
       "extracted": 709296,
-      "updated": "4/06/2026",
+      "updated": "8/06/2026",
       "screens": 4
     },
     {
@@ -232,6 +232,23 @@
       "extracted": 92177,
       "updated": "5/06/2026",
       "screens": 5
+    },
+    {
+      "name": "CEMU",
+      "title": "Cemu - Wii U",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Emulador Wii U",
+      "details": "Cemu es la obra maestra de la emulación de Wii U, ofreciendo una experiencia muy superior al hardware original de Nintendo\n\nSu rendimiento óptimo lo convierte en la mejor opción para revivir este catálogo\n\nLo Bueno\n\nRendimiento impecable, Mejoras visuales, Comunidad activa, Gran compatibilidad\n\nCaracterísticas\n\nPortadas — descarga automática desde SteamGridDB\n\nConfiguración por juego - configuración del paquete de gráficos\n\nReasignación de mando - entrada multijugador, giroscopio y vibración\n\nInstalación y gestión de juegos - actualizaciones y DLC\n\nCompatibilidad con almacenamiento - SD, USB y SMB\n\nCompatibilidad experimental con Pretendo y servicios en línea personalizados\n\nCompatibilidad con WUA, WUD, WUX, WUHB, RPX, ELF, ISO y juegos extraídos\n\nNotas\n\nLa primera compilación de shaders puede causar tirones o pausas largas. Las ejecuciones posteriores deberían ser más rápidas\n\n Pulsa L + R + Más durante el juego para abrir el menú rápido.\n\nLa compatibilidad y el rendimiento del juego pueden variar\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo_2/releases/download/Primer/CEMU.zip",
+      "license": "Ingles",
+      "category": "Emuladores",
+      "binary": "/switch/Cemu/Cemu.nro",
+      "filesize": 64847,
+      "extracted": 139600,
+      "updated": "8/06/2026",
+      "screens": 2
     },
     {
       "name": "MELON",
@@ -1176,8 +1193,8 @@
     },
     {
       "name": "FUSION",
-      "title": "SMW Remastered Plus",
-      "author": "Plants vs Zombies Fusion",
+      "title": "Plants vs Zombies Fusion",
+      "author": "ChanseyIsTheBest",
       "version": "1.0.0",
       "description": "Port Android",
       "details": "Plants vs. Zombies: Fusion es un fangame desarrollado en Unity que revitaliza la franquicia clásica al permitir la combinación de distintas plantas para crear nuevos híbridos con habilidades mejoradas\n\nSu jugabilidad es más dinámica y desafiante que la del juego original, exigiendo una mejor estrategia para enfrentar oleadas de zombis\n\nLo Mejor del Juego\n\nMecánica de Fusión: La posibilidad de combinar plantas (por ejemplo: Girasol + Lanzaguisantes = Lanzasol) añade una capa de profundidad estratégica fresca y adictiva.\n\nNivel de Desafío: A diferencia del clásico, los zombis y la selección de tu equipo exigen mucha más atención, lo que evita que las partidas se vuelvan monótonas\n\nCalidad visual: Pese a ser un proyecto independiente, conserva el carisma del juego de PopCap con animaciones y fusiones creativas.\n\nControles:\n\nBoton - Activar/desactivar el apuntado giroscópico (inclinar/girar el mando para apuntar)\n\nBoton + \n\nActivar/desactivar el cursor en pantalla\n\nJoystick izquierdo Mueva el cursor\n\nL/R recentra el cursor al centro de la pantalla (esto ayuda a apuntar con el giroscopio).\n\nA/ZR/ZL Pulsar/confirmar (ZL y ZR permiten jugar con una sola mano).\n\nD-pad arriba/abajo Ajusta la sensibilidad de lo que sea que esté controlando el cursor.\n\n Boton B Cancelar/regresar\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
