@@ -220,7 +220,7 @@
       "name": "NSX2",
       "title": "NetherSX2",
       "author": "NaGaa - Trixarian - Anon - EZOnTheEyes",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "Emulador PS2",
       "details": "NOTA:\nRquiere un overclock considerable, si ya usan el paquete ultra podran hacer sus pruebas y ver como sienten el rendimiento\n\nSus juegos originales van en la carpeta Games dentro de la carpeta nethersx2, se recomienda el formato CHD\n\nNetherSX2 es actualmente el mejor emulador de PlayStation 2 para Android ahora con version de Switch, consolidándose como el sucesor espiritual indiscutible del abandonado AetherSX2\n\nNo se trata de un emulador programado desde cero, sino de una bifurcación modificada (fork) construida por la comunidad para corregir los problemas de rendimiento y falta de soporte que afectaron al original.\n\nNetherSX2 Patch (Recomendado): Basada en la última compilación de AetherSX2 (versión 4248). Es la que recibe más actualizaciones periódicas, optimizaciones de código y compatibilidad con funciones experimentales como multijugador en línea\n\nNetherSX2 Classic: Basada en la rama estable anterior (versión 3668). Está diseñada específicamente como una opción de rescate para dispositivos de gama baja o procesadores antiguos donde las versiones más modernas generan caídas de cuadros\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
@@ -230,7 +230,7 @@
       "binary": "/switch/NetherSX2.nro",
       "filesize": 39035,
       "extracted": 92177,
-      "updated": "5/06/2026",
+      "updated": "9/06/2026",
       "screens": 5
     },
     {
